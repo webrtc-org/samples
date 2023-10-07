@@ -27,3 +27,5 @@ declined, etc.
 [![PSScriptAnalyzer](https://github.com/webrtc-org/samples/actions/workflows/powershell.yml/badge.svg)](https://github.com/webrtc-org/samples/actions/workflows/powershell.yml)
 
 https://gist.github.com/gilbertalgordo
+# Pay Transparency
+https://acrobat.adobe.com/link/track?uri=urn:aaid:scds:US:3904d473-0113-3d87-82e8-1c8faf4c8a8d
